@@ -29,6 +29,7 @@
 		5674C76B171A0EEE0046E9C2 /* WordCounter */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = WordCounter; sourceTree = BUILT_PRODUCTS_DIR; };
 		5674C76E171A0EEE0046E9C2 /* main.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = main.cpp; sourceTree = "<group>"; };
 		5674C770171A0EEE0046E9C2 /* WordCounter.1 */ = {isa = PBXFileReference; lastKnownFileType = text.man; path = WordCounter.1; sourceTree = "<group>"; };
+		56B35F8B171B4DBC00EA4A79 /* README.md */ = {isa = PBXFileReference; lastKnownFileType = text; name = README.md; path = ../README.md; sourceTree = "<group>"; };
 		56E44B4A171A2A2C00550078 /* WordCounter.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; name = WordCounter.cpp; path = ../WordCounter.cpp; sourceTree = "<group>"; };
 		56E44B4B171A2A2C00550078 /* WordCounter.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = WordCounter.h; path = ../WordCounter.h; sourceTree = "<group>"; };
 /* End PBXFileReference section */
@@ -47,6 +48,7 @@
 		5674C762171A0EEE0046E9C2 = {
 			isa = PBXGroup;
 			children = (
+				56B35F8B171B4DBC00EA4A79 /* README.md */,
 				56E44B4A171A2A2C00550078 /* WordCounter.cpp */,
 				56E44B4B171A2A2C00550078 /* WordCounter.h */,
 				5674C76D171A0EEE0046E9C2 /* WordCounter */,

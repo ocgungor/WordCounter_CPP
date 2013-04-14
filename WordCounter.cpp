@@ -42,10 +42,12 @@
 
 using namespace std;
 
+
 WordCounter::WordCounter(string &text)
 {
 	content = text;				
 }
+
 
 
 
@@ -67,6 +69,7 @@ void WordCounter::count()
 			nWords++;
 	}
 }
+
 
 
 int WordCounter::lines()

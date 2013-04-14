@@ -45,10 +45,17 @@ class WordCounter
 	int nLines, nWords, nChars;
 
 public:
-	WordCounter(std::string &text);		
-	void count();
-	int lines();
-	int words();				
-	int characters();			
+	
+    //Constructor to count the words in a given text string
+    WordCounter(string &text);
+    //do the actual counting of lines, words, and characters
+    void count();
+    //Return the number of lines counted
+    int lines();
+    //Return the number of words counted
+    int words();
+    //Return the number of characters counted
+    int characters();
+    
 };
 

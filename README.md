@@ -8,19 +8,25 @@ Documentation
 
 Constructor to count the words in a given text string
 ```
-WordCounter::WordCounter(string &text);
+WordCounter(string &text);
 ```
+do the actual counting of lines, words, and characters
+```
+void count()				
+
+```
+
 Return the number of lines counted
 ```
-int WordCounter::lines();
+int lines();
 ```
 Return the number of words counted
 ```
-int WordCounter::words();
+int words();
 ```
 Return the number of characters counted
 ```
-int WordCounter::characters();
+int characters();
 ```
 
 Copyright
